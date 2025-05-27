@@ -18,7 +18,7 @@ steps:
 
 - task: SonarCloudPrepare@3
   inputs:
-    SonarQube: 'TP6'
+    SonarCloud: 'TP6'
     organization: '22396260331'
     scannerMode: 'dotnet'
     projectKey: '22396260331_TP6'
