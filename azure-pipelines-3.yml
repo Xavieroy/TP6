@@ -16,6 +16,22 @@ steps:
 - checkout: self
   fetchDepth: 0
 
+- task: SonarCloudPrepare@3
+  inputs:
+    SonarQube: 'TP6'
+    organization: '22396260331'
+    scannerMode: 'dotnet'
+    projectKey: '22396260331_TP6'
+    projectName: 'TP6'
+
+- task: SonarCloudAnalyze@3
+  inputs:
+    jdkversion: 'JAVA_HOME_17_X64'
+    
+- task: SonarCloudPublish@3
+  inputs:
+    pollingTimeoutSec: '300'
+
 - script: dotnet restore
   displayName: 'dotnet restore'
 
