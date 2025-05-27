@@ -24,16 +24,16 @@ steps:
     projectKey: '22396260331_TP6'
     projectName: 'TP6'
 
-- task: SonarCloudAnalyze@3
-  inputs:
-    jdkversion: 'JAVA_HOME_17_X64'
-    
-- task: SonarCloudPublish@3
-  inputs:
-    pollingTimeoutSec: '300'
-
 - script: dotnet restore
   displayName: 'dotnet restore'
 
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
+
+- task: SonarCloudAnalyze@3
+  inputs:
+    jdkversion: 'JAVA_HOME_17_X64'
+
+- task: SonarCloudPublish@3
+  inputs:
+    pollingTimeoutSec: '300'
