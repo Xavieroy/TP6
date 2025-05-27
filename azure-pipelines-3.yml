@@ -13,9 +13,11 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
+- checkout: self
+  fetchDepth: 0
+
 - script: dotnet restore
   displayName: 'dotnet restore'
 
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
-
