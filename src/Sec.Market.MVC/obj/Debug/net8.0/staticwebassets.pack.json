@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Sec.Market.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Sec.Market.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\_references.js",
+      "PackagePath": "staticwebassets\\_references.js"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\app.component.css",
+      "PackagePath": "staticwebassets\\css\\app.component.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\app.component.min.css",
+      "PackagePath": "staticwebassets\\css\\app.component.min.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\app.component.scss",
+      "PackagePath": "staticwebassets\\css\\app.component.scss"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\basket\\basket-status\\basket-status.component.css",
+      "PackagePath": "staticwebassets\\css\\basket\\basket-status\\basket-status.component.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\basket\\basket-status\\basket-status.component.min.css",
+      "PackagePath": "staticwebassets\\css\\basket\\basket-status\\basket-status.component.min.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\basket\\basket-status\\basket-status.component.scss",
+      "PackagePath": "staticwebassets\\css\\basket\\basket-status\\basket-status.component.scss"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\basket\\basket.component.css",
+      "PackagePath": "staticwebassets\\css\\basket\\basket.component.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\basket\\basket.component.min.css",
+      "PackagePath": "staticwebassets\\css\\basket\\basket.component.min.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\basket\\basket.component.scss",
+      "PackagePath": "staticwebassets\\css\\basket\\basket.component.scss"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\catalog\\catalog.component.css",
+      "PackagePath": "staticwebassets\\css\\catalog\\catalog.component.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\catalog\\catalog.component.min.css",
+      "PackagePath": "staticwebassets\\css\\catalog\\catalog.component.min.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\catalog\\catalog.component.scss",
+      "PackagePath": "staticwebassets\\css\\catalog\\catalog.component.scss"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\orders\\orders-detail\\orders-detail.component.css",
+      "PackagePath": "staticwebassets\\css\\orders\\orders-detail\\orders-detail.component.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\orders\\orders-detail\\orders-detail.component.min.css",
+      "PackagePath": "staticwebassets\\css\\orders\\orders-detail\\orders-detail.component.min.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\orders\\orders-detail\\orders-detail.component.scss",
+      "PackagePath": "staticwebassets\\css\\orders\\orders-detail\\orders-detail.component.scss"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\orders\\orders-new\\orders-new.component.css",
+      "PackagePath": "staticwebassets\\css\\orders\\orders-new\\orders-new.component.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\orders\\orders-new\\orders-new.component.min.css",
+      "PackagePath": "staticwebassets\\css\\orders\\orders-new\\orders-new.component.min.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\orders\\orders-new\\orders-new.component.scss",
+      "PackagePath": "staticwebassets\\css\\orders\\orders-new\\orders-new.component.scss"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\orders\\orders.component.css",
+      "PackagePath": "staticwebassets\\css\\orders\\orders.component.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\orders\\orders.component.min.css",
+      "PackagePath": "staticwebassets\\css\\orders\\orders.component.min.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\orders\\orders.component.scss",
+      "PackagePath": "staticwebassets\\css\\orders\\orders.component.scss"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\override.css",
+      "PackagePath": "staticwebassets\\css\\override.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\shared\\components\\header\\header.css",
+      "PackagePath": "staticwebassets\\css\\shared\\components\\header\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\shared\\components\\header\\header.min.css",
+      "PackagePath": "staticwebassets\\css\\shared\\components\\header\\header.min.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\shared\\components\\header\\header.scss",
+      "PackagePath": "staticwebassets\\css\\shared\\components\\header\\header.scss"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\shared\\components\\identity\\identity.css",
+      "PackagePath": "staticwebassets\\css\\shared\\components\\identity\\identity.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\shared\\components\\identity\\identity.min.css",
+      "PackagePath": "staticwebassets\\css\\shared\\components\\identity\\identity.min.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\shared\\components\\identity\\identity.scss",
+      "PackagePath": "staticwebassets\\css\\shared\\components\\identity\\identity.scss"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\shared\\components\\pager\\pager.css",
+      "PackagePath": "staticwebassets\\css\\shared\\components\\pager\\pager.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\shared\\components\\pager\\pager.min.css",
+      "PackagePath": "staticwebassets\\css\\shared\\components\\pager\\pager.min.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\shared\\components\\pager\\pager.scss",
+      "PackagePath": "staticwebassets\\css\\shared\\components\\pager\\pager.scss"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\css\\toastr.css",
+      "PackagePath": "staticwebassets\\css\\toastr.css"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\fonts\\Montserrat-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\fonts\\Montserrat-Bold.svg",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Bold.svg"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\fonts\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\fonts\\Montserrat-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\fonts\\Montserrat-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\fonts\\Montserrat-Regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\fonts\\Montserrat-Regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\fonts\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\fonts\\Montserrat-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\fonts\\Montserrat-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\arrow-down.png",
+      "PackagePath": "staticwebassets\\images\\arrow-down.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\images\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\brand-limoilou.png",
+      "PackagePath": "staticwebassets\\images\\brand-limoilou.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\brand.png",
+      "PackagePath": "staticwebassets\\images\\brand.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\brand_dark.png",
+      "PackagePath": "staticwebassets\\images\\brand_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\cart-inoperative.png",
+      "PackagePath": "staticwebassets\\images\\cart-inoperative.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\image1.png",
+      "PackagePath": "staticwebassets\\images\\image1.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\image10.png",
+      "PackagePath": "staticwebassets\\images\\image10.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\image11.png",
+      "PackagePath": "staticwebassets\\images\\image11.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\image12.png",
+      "PackagePath": "staticwebassets\\images\\image12.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\image2.png",
+      "PackagePath": "staticwebassets\\images\\image2.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\image3.png",
+      "PackagePath": "staticwebassets\\images\\image3.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\image4.png",
+      "PackagePath": "staticwebassets\\images\\image4.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\image5.png",
+      "PackagePath": "staticwebassets\\images\\image5.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\image6.png",
+      "PackagePath": "staticwebassets\\images\\image6.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\image7.png",
+      "PackagePath": "staticwebassets\\images\\image7.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\image8.png",
+      "PackagePath": "staticwebassets\\images\\image8.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\image9.png",
+      "PackagePath": "staticwebassets\\images\\image9.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\logout.png",
+      "PackagePath": "staticwebassets\\images\\logout.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\main_banner.png",
+      "PackagePath": "staticwebassets\\images\\main_banner.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\main_banner_text.png",
+      "PackagePath": "staticwebassets\\images\\main_banner_text.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\main_banner_text.svg",
+      "PackagePath": "staticwebassets\\images\\main_banner_text.svg"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\main_footer_perso_text.png",
+      "PackagePath": "staticwebassets\\images\\main_footer_perso_text.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\main_footer_text.png",
+      "PackagePath": "staticwebassets\\images\\main_footer_text.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\my_orders.png",
+      "PackagePath": "staticwebassets\\images\\my_orders.png"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\images\\refresh.svg",
+      "PackagePath": "staticwebassets\\images\\refresh.svg"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\xroy0\\Downloads\\H25_-_Securite_des_applications_-_TP6\\src\\Sec.Market.MVC\\wwwroot\\js\\site.min.js",
+      "PackagePath": "staticwebassets\\js\\site.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Sec.Market.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Sec.Market.MVC.props",
+      "PackagePath": "build\\Sec.Market.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Sec.Market.MVC.props",
+      "PackagePath": "buildMultiTargeting\\Sec.Market.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Sec.Market.MVC.props",
+      "PackagePath": "buildTransitive\\Sec.Market.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

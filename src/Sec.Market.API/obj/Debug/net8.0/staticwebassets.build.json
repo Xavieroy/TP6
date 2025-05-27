@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QTOcG4bZSpttwK7MQvKa+Vqr74XZ/vqTzG0OyGGZ+7M=",
+  "Source": "Sec.Market.API",
+  "BasePath": "_content/Sec.Market.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
